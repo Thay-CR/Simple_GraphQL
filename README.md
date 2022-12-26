@@ -1,1 +1,1 @@
-# Simple_GraphQL
+# crudGraphQL
